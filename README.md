@@ -11,7 +11,7 @@ Langton's Ant is a cellular automaton that simulates the behavior of an ant on a
 
 
 ## Background
-**Christopher Langton** (1948-present) is a pioneer in the field of **artificial life**. In 1986, while working at the Santa Fe Institute, he invented Langton's Ant as a simple yet powerful example of how deterministic systems with very basic rules can generate emergent behavior and complexity.
+**Christopher Langton** is a pioneer in the field of **artificial life**. In 1986, while working at the Santa Fe Institute, he invented Langton's Ant as a simple yet powerful example of how deterministic systems with very basic rules can generate emergent behavior and complexity.
 
 Langton's Ant is famous for its seemingly chaotic behavior that eventually converges into a repetitive pattern called the "highway". This discovery was fundamental in demonstrating that complexity can emerge from simplicity, a central concept in artificial life.
 
